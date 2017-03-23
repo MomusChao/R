@@ -1,0 +1,1 @@
+read.table(file.choose(),header=T)
