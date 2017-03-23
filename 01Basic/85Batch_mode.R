@@ -1,5 +1,5 @@
 #reture all paths for files 
-Path_list = list.files("C:/Users/air_j/Desktop/R/R/01Basic",full.names = T)
+Path_list = list.files("C:/01Basic",full.names = T)
 Path_list
 
 #return index of .csv
