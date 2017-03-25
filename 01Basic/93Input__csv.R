@@ -1,0 +1,1 @@
+mydata = read.csv("C:/Users/air_j/Desktop/test/myCSV.csv",header=T)
