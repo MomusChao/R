@@ -16,6 +16,10 @@
 #### 11. Long & wide format : 120-121 
 #### 12. Sub : 122
 #### 13. Cast : 123-125
+#### 14. Combine 126-133
+#### 15. Split 134-138
+# 
+#### 16. %not_in% 139
 # 
 The basic functions are followed with R version 3.3.3.
 
