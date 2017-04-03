@@ -20,6 +20,9 @@
 #### 15. Split 134-138
 # 
 #### 16. %not_in% 139
+#### 17. Logical operator 140-141
+#### 18. Ifelse 142-144
+#### 19. Switch 145
 # 
 The basic functions are followed with R version 3.3.3.
 
