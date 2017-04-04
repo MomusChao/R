@@ -1,7 +1,7 @@
 # R Language
 ### Description of each files: 
 # 
-#### 1. ifelse : 100-102
+#### 1. ifelse : 100-102, 142-144
 #### 2. Cut  : 103-105
 #### 3. Car Package - recode : 106-108
 #### 4. Sort: 109-110
@@ -21,8 +21,8 @@
 # 
 #### 16. %not_in% 139
 #### 17. Logical operator 140-141
-#### 18. Ifelse 142-144
-#### 19. Switch 145
+#### 18. Switch 145
+#### 19. Loop 146-150
 # 
 The basic functions are followed with R version 3.3.3.
 
