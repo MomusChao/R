@@ -1,0 +1,5 @@
+## step()
+model.all = lm(Sepal.Width ~ . , data=iris)
+result.step = step(model.all)
+summary(result.step)
+anova(result.step)
